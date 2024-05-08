@@ -1,0 +1,157 @@
+.d-flex{width: 500px;}
+
+#best{margin-left: 160px;
+}
+#pro{position: relative;
+left: 25px;}
+
+
+#bike{position: relative;
+    left: 40px;}
+    
+.border:hover{cursor: pointer;
+    animation-name: initial;}
+
+.border{animation: alternate;
+transform-style: preserve-3d;}
+.border:hover{
+
+    box-shadow: 0px 0px 10px 0px grey;
+}
+#mar{margin-top: 20px;}
+#id{padding: 60px;}
+#flip{margin-right: 50px;}
+
+.link{text-decoration: none;
+
+    
+color: black;}
+.link:hover{color: blue;}
+
+#font{font-family: Arial size-2;
+color: white;
+background-color: black;
+
+margin-top: 10px;
+padding-top: 10px;
+padding: 10px;
+padding-left: 80px;}
+
+#fontt{color: white;
+background-color: black;
+padding-top: 0px;}
+
+/* #bike{margin-top: 0px;} */
+#image{padding-left: 190px;
+    margin-top: 30px;}
+
+@media screen and (max-width:530px){
+
+    #image{text-align: center;
+    position: relative;
+right: 70px;}
+    
+    #pro{position: relative;
+        left: 0px;}
+        
+        
+        #bike{position: relative;
+            left: 0px;}
+
+#best{margin-left: 0px;
+}
+#id{text-align: center;}
+#idd{text-align: center;}
+
+}
+
+
+#new{display: table-row-group;}
+#text{text-align: center;
+padding-top: 10px;}
+#next{display: table-row;
+}
+#top{margin-top: 20px;
+}
+#meat{position: relative;
+margin-left: 500px;}
+#center{text-align: center;
+}
+#wide{
+
+color: tomato;}
+
+#widee{text-align: center;
+    color: tomato;}
+
+
+
+
+    #centerr{text-align: center;
+    }
+    #color{background-color: rgb(15, 2, 2);
+    color: white;}
+
+    #centerrr{color: tomato;
+    text-align: center;}
+
+    #white{color: black;
+    }
+    
+    .btnn{background-color: rgba(92, 92, 245, 0.948);}
+
+    
+@media screen and (max-width:530px){
+
+    #media{      text-align: center;}
+    #mediaa{padding: 20px;}
+    #btn{margin-left: 200px;
+    margin-right: 200px;}
+
+}
+
+#green{color: green;
+}
+#row{padding-top: 5px;
+    
+}
+#float{display: inline;
+}
+
+#hover{
+
+margin-bottom: 2px;
+border-top: 10px;
+
+} 
+
+
+.border:hover{cursor: pointer;
+    animation-name: initial;}
+
+#hoverr:hover{color: blue;}
+
+.border{animation: alternate;
+transform-style: preserve-3d;}
+#hover:hover #sha{
+    box-shadow: 0px 0px 10px 0px grey;
+}
+#sha{
+    height: 500px;
+    transition: 0.5s;
+}
+
+
+#img{margin-top: 2px;}
+
+@media screen and (max-width:530px){
+    #img{width: 450px;
+    margin-top: 10px;}
+
+}
+
+
+
+    #imgg{
+        width: 50px;
+    }
